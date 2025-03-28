@@ -17,11 +17,12 @@
 - `PyQt5`
 - `opencv-python`
 - `Pillow`
+(建议使用Python3.8或3.9）
 
 ### 3. 运行工具
 在命令行进入到项目根目录并运行以下命令启动工具：
 ```bash
-python image_similarity_tool.py
+python main.py
 ```
 
 ### 4.使用图形界面
